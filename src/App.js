@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import PopularLanguages from './components/PopularLanguages';
+import Popular from './components/Popular';
 
 
 function App() {
   return (
     <div className="container">
-      <PopularLanguages />
+      <Popular />
     </div>
   );
 }
