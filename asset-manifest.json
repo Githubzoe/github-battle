@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github-battle/static/css/main.5387fa29.chunk.css",
-    "main.js": "/github-battle/static/js/main.4a626807.chunk.js",
-    "main.js.map": "/github-battle/static/js/main.4a626807.chunk.js.map",
+    "main.css": "/github-battle/static/css/main.07b76354.chunk.css",
+    "main.js": "/github-battle/static/js/main.5e5514e1.chunk.js",
+    "main.js.map": "/github-battle/static/js/main.5e5514e1.chunk.js.map",
     "runtime-main.js": "/github-battle/static/js/runtime-main.864a4400.js",
     "runtime-main.js.map": "/github-battle/static/js/runtime-main.864a4400.js.map",
-    "static/js/2.b503e462.chunk.js": "/github-battle/static/js/2.b503e462.chunk.js",
-    "static/js/2.b503e462.chunk.js.map": "/github-battle/static/js/2.b503e462.chunk.js.map",
+    "static/js/2.f76a7baa.chunk.js": "/github-battle/static/js/2.f76a7baa.chunk.js",
+    "static/js/2.f76a7baa.chunk.js.map": "/github-battle/static/js/2.f76a7baa.chunk.js.map",
     "static/js/3.f2f13237.chunk.js": "/github-battle/static/js/3.f2f13237.chunk.js",
     "static/js/3.f2f13237.chunk.js.map": "/github-battle/static/js/3.f2f13237.chunk.js.map",
     "index.html": "/github-battle/index.html",
-    "static/css/main.5387fa29.chunk.css.map": "/github-battle/static/css/main.5387fa29.chunk.css.map",
-    "static/js/2.b503e462.chunk.js.LICENSE.txt": "/github-battle/static/js/2.b503e462.chunk.js.LICENSE.txt"
+    "static/css/main.07b76354.chunk.css.map": "/github-battle/static/css/main.07b76354.chunk.css.map",
+    "static/js/2.f76a7baa.chunk.js.LICENSE.txt": "/github-battle/static/js/2.f76a7baa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.864a4400.js",
-    "static/js/2.b503e462.chunk.js",
-    "static/css/main.5387fa29.chunk.css",
-    "static/js/main.4a626807.chunk.js"
+    "static/js/2.f76a7baa.chunk.js",
+    "static/css/main.07b76354.chunk.css",
+    "static/js/main.5e5514e1.chunk.js"
   ]
 }
